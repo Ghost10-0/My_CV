@@ -63,9 +63,9 @@ h1{
 p{
     line-height:15px;
 }
-@media(min-width:1240px){
+@media(max-width:1920px){
    .Lego{
-      width:100%;
+      width:95%;
       padding:30px;
    }
 }
